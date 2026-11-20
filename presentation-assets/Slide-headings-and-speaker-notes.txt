@@ -1,0 +1,46 @@
+JUTEORB — SLIDE-READY SCREENSHOTS & TALKING POINTS
+
+Use each PNG as the main image on a presenter-led slide. Keep visible text minimal; use the notes as your spoken explanation. Advance manually after each point.
+
+01 — HOMEPAGE HERO
+On-slide: JuteOrb — Earth to Eternity
+Say: “This is the first impression: a strong brand statement, craft-led imagery, and clear paths into the collections and story.”
+Image: 01-homepage-hero.png
+
+02 — BRAND INTRODUCTION
+On-slide: Thoughtful design for everyday life
+Say: “The homepage gives the brand room to explain what makes its approach considered, while keeping the product image central.”
+Image: 02-brand-introduction.png
+
+03 — COLLECTION DISCOVERY
+On-slide: Explore JuteOrb
+Say: “Visitors can quickly see the range and choose the collection they want to explore. The visual treatment stays consistent across categories.”
+Image: 03-collection-discovery.png
+
+04 — JEWELLERY & BAGS
+On-slide: Every collection, one coherent experience
+Say: “These collection cards show how distinct products can sit within one recognizable JuteOrb look.”
+Image: 04-jewellery-and-bags.png
+
+05 — OUR STORY & ARTISAN CRAFT
+On-slide: A return to maker
+Say: “The story page connects the brand’s purpose with the hands and craft behind the pieces, using the supplied artisan photograph.”
+Image: 05-our-story-and-artisan.png
+
+06 — FOUNDER STORY
+On-slide: Meet Rohini Jha
+Say: “The founder story is arranged as a readable editorial section, giving Rohini’s journey and JuteOrb’s purpose a distinct place on the site.”
+Image: 06-meet-the-founder.png
+
+07 — VISION & VALUES
+On-slide: Earth to Eternity
+Say: “The vision and values provide a concise close to the story and reinforce the design principles the site carries throughout.”
+Image: 07-vision-and-values.png
+
+08 — CONTACT & ENQUIRIES
+On-slide: Let’s talk
+Say: “The contact page gives customers, artisans, suppliers, and bulk-order enquiries a clear way to reach the business.”
+Image: 08-contact-and-enquiries.png
+
+PRESENTATION NOTE
+The screenshots are supplied as-is from the pages provided. The homepage story screenshot that shows a placeholder is not included; the selected Our Story screenshot uses the artisan photo. The website sample demonstrates the front-end experience. Do not describe checkout, payment processing, inventory, or order management as live features unless they are separately implemented.

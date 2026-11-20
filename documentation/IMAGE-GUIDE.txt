@@ -1,0 +1,25 @@
+JuteOrb website guide
+
+Open index.html to start. The site has four linked pages: Home, Our Story, Collections and Contact. The navigation collapses to a menu on smaller screens.
+
+Hero slideshow order:
+  assets/images/hero-slides/hero-film.mp4 — first, muted; advances when playback ends
+  assets/images/hero-slides/close-up.png — second
+  assets/images/hero-slides/slide-01.jpg.png — woman carrying a jute bag; lower crop focused on the bag
+  assets/images/hero-slides/slide-02.png
+  assets/images/hero-slides/slide-03.png — hat remains visible on desktop
+Still images display for 7 seconds with a soft crossfade. To add slides, update the slides list near the top of script.js.
+
+Product photos in assets/images/products/:
+  cresent bag.jpg — Bags
+  lamp cover.png — Home Decor feature on the homepage
+  mirror.png — Home Decor collection
+  scarf.png — Fashion collection
+  statement-necklace.jpg — Jewellery; also featured on the homepage
+  table top clothes.jpg — Stationery collection
+
+Founder / artisan photo:
+  Original: C:\Users\91947\OneDrive\Desktop\juteorb\ugc\artisan.png
+  Website copy: assets/images/founder/artisan.png, used on about.html as the Artist at Work photo
+
+Collection names and descriptions are in collections.html. Founder story and vision are in about.html. Contact information, partner enquiries and bulk orders are in contact.html. The home page email signup and contact form open pre-addressed email drafts; they do not connect to a mailing or form service automatically.

@@ -1,0 +1,14 @@
+JUTEORB WEBSITE FILE MAP
+
+- index.html: homepage and only HTML page at the project root
+- pages/: secondary storefront pages (About, Collections, Contact)
+- assets/css/: shared storefront styles
+- assets/js/: storefront interactions and product catalogue display
+- assets/images/: hero slides, product images and founder imagery
+- admin/: administrator dashboard, styles and scripts
+- account/: sign-in and customer account prototype
+- documentation/: image guide, project map and CRM dataflow diagrams
+- presentation-assets/: screenshots and speaker notes
+- juteorb/: original source/reference folders
+
+The product catalogue currently stores product details and original-resolution images in this browser's local database. For public updates across customer devices, connect the catalogue to a shared server/API.
